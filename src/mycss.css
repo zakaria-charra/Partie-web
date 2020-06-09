@@ -1,0 +1,94 @@
+.ipcs {
+    background-color: red ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.jumbotron{
+    background-image: url('./hotel.jpg');
+    background-size: cover;
+    text-shadow: 2px 2px;
+    }
+ .backResto{
+        background-image: url('./resto.jpg');
+        background-size: cover;
+        }
+.backevent{
+            background-image: url('./event.jpg');
+            background-size: cover;
+         }
+ .backdest{
+            background-image: url('./dest.jpg');
+            background-size: cover;
+            color: white;
+         }
+ .menuC{
+
+    background-color:rgb(147, 210, 247);
+    color: #ffffff;
+    border-color: #007bff;
+ }
+ .path{
+    padding-bottom: 4%;
+}
+.padTop{
+    padding: 4%;
+}
+.area {
+    width: 440px;
+  }
+
+
+.wd{
+  
+    width: 60%;
+}
+.withTh{
+  
+    width: 20%;
+}
+.imgS {
+    width:80px;
+    height: 80px;
+}
+.imgSx {
+    width:13%;
+    max-height: 13%;
+    padding: 1%;
+}
+
+.hidden {
+	display: none;
+}
+
+.back{
+    background-color:#1f506d;
+}
+.back2{
+    background-color:#cce0ec;
+}
+.backApp{
+    background: url('./bgApp.jpg');
+}
+
+.them1 {
+    font-family: "Arial Black", Gadget, sans-serif;
+  }
+  .back3{
+    background-color:#5aa3be;
+}
+.back4{
+    background-color:#d2d9db;
+}
+.back4{
+    background-color:#d2d9db;
+}
+.back5{
+    background-color:#f09125;
+}
+.back6{
+    background-color:#826783;
+}
+
+.margin1{
+    margin-inline-start: 40px;
+}
